@@ -28,3 +28,18 @@ A colorscheme like blackboard. (kokuban means blackboard in Japanese.)
 | Color6 | `#945FC5` | `#AE63E9` |
 | Color7 | `#D89B25` | `#FFAA2B` |
 | Color8 | `#D8E2D7` | `#FFFFFF` |
+
+# Editors / Terminals
+
+Not yet but coming soon!
+
+Your favorite editor or terminal isn't listed? See [Contribution guide](#creating-kokuban-color-scheme-on-your-editor).
+
+# Contribution
+
+## Creating kokuban color scheme on your editor.
+
+1. Create repository you own.
+2. Write setting to your editor.
+3. Link to this repository from your repository README.
+4. Fork this and add your repository to [Editors / Terminals](#editors--terminals), then send Pull Request!
