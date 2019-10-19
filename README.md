@@ -1,6 +1,6 @@
 # kokuban
 
-A colorscheme like blackboard. (kokuban means blackboard in Japanese.)
+A color-scheme like blackboard. (kokuban means blackboard in Japanese.)
 
 ![image](./kokuban.png)
 
