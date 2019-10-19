@@ -31,7 +31,11 @@ A color-scheme like blackboard. (kokuban means blackboard in Japanese.)
 
 # Editors / Terminals
 
-Not yet but coming soon!
+## Terminals
+### [Gogh](http://mayccoll.github.io/Gogh/)
+
+Gogh is a profile generator macOS and Linux terminals.
+You can use kokuban color-scheme with Gogh.
 
 Your favorite editor or terminal isn't listed? See [Contribution guide](#creating-kokuban-color-scheme-on-your-editor).
 
